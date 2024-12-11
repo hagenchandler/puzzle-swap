@@ -23,3 +23,9 @@ Possible useful resource: https://www.jigsaw-wiki.com/wiki/Category:Puzzles
       started on designing the PostgreSQL database. I also don't know as 
       much as I'd like to about Docker so start learning about 
       containerization through Docker.
+
+12/11: Trimmed the React Project down. I think I will do the UI first and
+       design it with the CRUD operations in mind. Previously I have mostly
+       done backend work so I hope that I will learn frontend better and
+       have the motivation to finish the project with something familiar
+       rather than the other way around.
