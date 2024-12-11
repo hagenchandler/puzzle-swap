@@ -2,6 +2,7 @@
 
 Technologies to be used:
     - React
+    - Express
     - PostgreSQL
     - AWS 
     - Docker
