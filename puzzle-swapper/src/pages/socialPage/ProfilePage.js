@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import {Formik, Form, Field } from 'formik';
+import Avatar from '@sabfry/avatarium';
 import './ProfilePage.css';
 
 const ProfilePage = () => {
