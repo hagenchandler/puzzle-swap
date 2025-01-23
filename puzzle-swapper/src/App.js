@@ -25,6 +25,12 @@ function App() {
             <Route path="/signup" element={<Signup />}>
             </Route>
         </Routes>
+
+        <Router>
+            <Switch>
+                <Route path="/profile" component={ProfilePage} />
+            </Switch>
+        </Router>
       </div>
     </Router>
   );
